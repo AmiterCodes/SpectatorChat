@@ -1,0 +1,5 @@
+name: SpectatorChat
+                                                      main: me.amitnave.spectatorchat.Main
+                                                      author: Amiter
+                                                      version: 1.0.0
+                                                      description: plugin to add spectator chat to the game.
